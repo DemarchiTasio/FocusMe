@@ -19,7 +19,7 @@ Se generaron las primeras 3 pantallas con sus respectivas funcionalidades.
 
 
 ### To Do's
-[] Cargar imagenes y videos para las meditaciones guiadas.
-[] Crear pantalla de chatbot.
-[] Embeber IA de chatbot, o hostear para consumir api de chatbot.
-[] Agregar funcionalidad de chatbot a la pantalla.
+- Cargar imagenes y videos para las meditaciones guiadas.
+- Crear pantalla de chatbot.
+- Embeber IA de chatbot, o hostear para consumir api de chatbot.
+- Agregar funcionalidad de chatbot a la pantalla.
